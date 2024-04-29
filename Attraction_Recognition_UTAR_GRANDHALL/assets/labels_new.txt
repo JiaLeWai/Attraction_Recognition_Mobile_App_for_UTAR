@@ -1,0 +1,7 @@
+0 No Target Attraction
+1 Block Sign
+2 Corridor
+3 Main Entrance
+4 Moon Gate
+5 Tian Yuan Di Fang
+6 Ink Block
